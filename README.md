@@ -5,7 +5,7 @@ This is a simple keylogger script written in Python. It uses the pynput library 
 ## Installation
 1. Clone the repository:
    
-   git clone https://github.com/Gowthammax007/Keylogger-Project-Naan-Mudhalvan.git
+   git clone https://github.com/prakashboomi8/keylogger-naan-mudhalvan.git
 
 3. Install the required dependencies:
 
